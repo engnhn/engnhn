@@ -8,6 +8,7 @@ I enjoy building things that work. I enjoy breaking them to understand *why* the
 
 > Tea fuels the code. Coffee sometimes makes a cameo. But let’s be honest, tea is the real MVP. 🍵
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
