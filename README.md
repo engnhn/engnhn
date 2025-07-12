@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm paleomnesis a developer who writes code, drinks tea, breaks things (occasionally on purpose), and learns something new in the process.
+I'm Engin Han a developer who writes code, drinks tea, breaks things (occasionally on purpose), and learns something new in the process.
 
 This profile isn't a portfolio of perfection it's more like a messy desk full of half-finished ideas, experiments gone wrong (or surprisingly right), and notes to my future self. I enjoy building things that work. I enjoy breaking them to understand *why* they work. Somewhere in between, I write code, refactor it, and occasionally refactor the refactor. 
 
