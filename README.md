@@ -11,10 +11,13 @@ I tend to favor boring solutions that survive production over clever ones that d
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" />
+
 </p>
 
 *I value clear problems, honest constraints, and software that ages well.*
