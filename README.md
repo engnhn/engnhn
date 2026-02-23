@@ -7,3 +7,8 @@ This profile isn't a portfolio of perfection it's more like a messy desk full of
 > Tea fuels the code. Coffee sometimes makes a cameo. But let’s be honest, tea is the real MVP. 🍵
 
 I tend to favor boring solutions that survive production over clever ones that don’t. Most of my decisions are shaped by trade-offs, failure modes, and what happens after launch. Production has a way of teaching humility.
+
+---
+<div align="center">
+<img height="165" src="https://streak-stats.demolab.com?user=engnhn&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=7200" />
+</div>
